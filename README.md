@@ -1,10 +1,9 @@
 
-# SE4020 - Assignment 01 - Part A
+
 
 
 # Project Name - SweatSync Workout Planner
-# Student Id - IT21234484
-# Student Name - Jayasinghe P.T.
+
 
 #### 01. Brief Description of Project - 
 SweatSync is an iPadOS fitness companion application that allows users to plan, record, and track their workouts. Users can create workouts by specifying their details, add exercises, sketch workout diagrams with Apple Pencil, and save sessions with persistent storage. HealthKit integration saves workouts directly to the Health app.
